@@ -16,8 +16,8 @@ The code computes the eigenvalues and eigenvectors of the given 2x2 matrix
 ## Program:
 ```
 #Program to find the eigen values and eigen vectors.
-#Developed by: PRADEEP
-#RegisterNumber:23013543
+#Developed by: PRADEEP V (or) Balaji
+#RegisterNumber:212223240119
 import numpy
 a=[[2,2],[1,3]]
 w,v=numpy.linalg.eig(a)
